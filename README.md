@@ -2,7 +2,7 @@
 
 A React and webpack production,development and common config
 
-### Technologies`
+### Technologies
 
 - Webpack
 - React
